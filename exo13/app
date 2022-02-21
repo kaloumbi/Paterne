@@ -1,0 +1,7 @@
+$color ="blue";
+<textarea style: "border=1px solide red" required <?= $color ?>  />
+
+explode: l'ensemble des points;
+implode:.....
+
+Expression régulière en Programmation !!!
